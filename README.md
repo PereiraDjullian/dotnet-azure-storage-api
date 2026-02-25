@@ -31,3 +31,5 @@ Bash
 dotnet restore
 dotnet run
 Testes: Acesse http://localhost:5000/swagger (ou a porta configurada) para testar os endpoints interativamente.
+<img width="1868" height="551" alt="image" src="https://github.com/user-attachments/assets/6c8dc43b-d20a-4a26-b4e9-92b2492e50de" />
+
